@@ -1,0 +1,17 @@
+Easwari Engineering College — Public Deployment Code Snapshot
+
+Source: https://easwaricol-o-kcfdckay.manus.space/
+
+Files included:
+__manus/pwa/manifest.webmanifest
+assets/index-CDvXEspP.css
+assets/index-DS4i7Nql.js
+css2
+index.html
+js/script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js
+manus-space-dispatcher/spaceEditor-Be_SD1Uu.js
+umami
+
+Limitations:
+This archive contains the publicly retrievable deployed build only.
+It does not include the original editable Manus/Webdev source project, private source files, backend/database code, secrets, or deployment configuration.
